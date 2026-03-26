@@ -1,2 +1,2 @@
 # mi-primer-repositorio
-Mi primer repositorio en Github para la clase de programacion   
+Hola soy Kiara este es mi primer repositorio en Github para la clase de programacion. Soy estudiante de programacion y me interesa aprender sobre programar   
